@@ -18,8 +18,7 @@ app.use((req, res, next) => {
 });
 
 app.use("/", expensesRoutes)
-// app.use("/api/workouts", workoutRoutes);
-// app.use("/api/user",userRoutes);
+
 
 
 //listening for requests
