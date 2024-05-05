@@ -4,7 +4,7 @@ Expense debt ratio tracker using MERN stack.
 
 ## Description
 A simple web application built with the MERN (MongoDB, Express.js, React, Node.js) stack for tracking debt and expenses across different categories.
-This application will be used to display how the user can organize the expenses in categories while tracking the financial state and providing an understanding of which categories are the most common...
+This application will display how the user can organize the expenses in categories while tracking the financial state and providing an understanding of which categories are the most common...
 
 
 ## Table of Contents
@@ -21,20 +21,31 @@ This application will be used to display how the user can organize the expenses 
 ## Installation
 1. Clone the repository.
 2. Navigate to the project directory.
-3. Install dependencies:
+3. Navigate to the frontend or backend directory.
+4. Install dependencies
+5. Install dependencies for frontend:
     ```bash
     npm install
     ```
-4. Start the server:
+6. Start the server:
     ```bash
     npm start
     ```
-5. Access the application at `http://localhost:3000`.
+7. Access the application at `http://localhost:3000`.
+8. Install dependencies for backend:
+    ```bash
+    npm init
+    ```
+6. Start the server:
+    ```bash
+    npm start
+    ```
+7. Access the application at `http://localhost:8080`.
 
 ## Getting Started
-This skeleton contains two different applications -- a front end, or "client," created with "Create React App," and a back end, or "API," created with Express.
+This skeleton contains two different applications -- a frontend, or "frontend," created with "Create React App," and a back end, or "Backend," created with Express.
 
-In order to make both of them work together, you'll need to run both, As we work on this project, you'll first focus on the side assigned to be worked while both are running. 
+To make both of them work together, you'll need to run both, As we work on this project, you'll first focus on the side assigned to be worked while both are running. 
 
 
 ## Client
