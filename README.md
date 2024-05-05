@@ -22,35 +22,17 @@ This application will display how the user can organize the expenses in categori
 1. Clone the repository.
 2. Navigate to the project directory.
 3. Navigate to the frontend or backend directory.
-4. Install dependencies
-5. Install dependencies for frontend:
-    ```bash
-    npm install
-    ```
-6. Start the server:
-    ```bash
-    npm start
-    ```
-7. Access the application at `http://localhost:3000`.
-8. Install dependencies for backend:
-    ```bash
-    npm init
-    ```
-6. Start the server:
-    ```bash
-    npm start
-    ```
-7. Access the application at `http://localhost:8080`.
+4. Install dependencies for both frontend and backend.
 
 ## Getting Started
-This skeleton contains two different applications -- a frontend, or "frontend," created with "Create React App," and a back end, or "Backend," created with Express.
+this boilerplate contains two different applications -- a frontend, or "frontend," created with "Create React App," and a back end, or "Backend," created with Express.
 
 To make both of them work together, you'll need to run both, As we work on this project, you'll first focus on the side assigned to be worked while both are running. 
 
 
 ## Client
 
-Latest checked | @Tue May 5th, 2024 12:00pm GMT-0500 (Eastern Standard Time)
+Latest checked | @Tue May 5th, 2024 2:00pm GMT-0500 (Eastern Standard Time)
 
 In order to run the client, you'll run the following commands:
 
@@ -64,7 +46,7 @@ npm start
 
 ## BACKEND/API
 
-Latest checked | @Tue Jan 30 2024 19:10:36 GMT-0500 (Eastern Standard Time)
+Latest checked | @Tue May 5th, 2024 2:00pm GMT-0500 GMT-0500 (Eastern Standard Time)
 
 In order to run the server, you'll run the following commands:
 
@@ -75,7 +57,7 @@ sudo npm audit fix          # 8 vulnerabilities (1 low, 4 high, 3 critical)
 npm start
 ```
 
-You should then be able to visit `localhost:9000` in your browser and see the server running.
+You should then be able to visit `localhost:8080` in your browser and see the server running.
 
 ## MONGODB
 
