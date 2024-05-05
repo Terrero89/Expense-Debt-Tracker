@@ -54,7 +54,7 @@ In order to run the server, you'll run the following commands:
 cd backend/
 sudo npm i                  # 8 vulnerabilities (1 low, 4 high, 3 critical)
 sudo npm audit fix          # 8 vulnerabilities (1 low, 4 high, 3 critical)
-npm start
+nodemon start
 ```
 
 You should then be able to visit `localhost:8080` in your browser and see the server running.
