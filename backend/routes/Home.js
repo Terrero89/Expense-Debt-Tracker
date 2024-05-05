@@ -6,10 +6,7 @@ var router = express.Router();
 //imported all controllers in as an object
 const {
     getAllExpensesController,
-    createExpensesController,
-    updateExpensesController,
-    deleteExpensesController,
-    getExpenseController
+
 
   } = require("../controllers/expenses-controller");
 

@@ -1,8 +1,8 @@
 import {JSX} from 'react'
 
 export const Item: React.FC = (): JSX.Element => {
-
-    return ( <div>IITEM EXPENSES</div>)
+   const  content: string = "hello";
+    return ( <div>IITEM EXPENSES {content}</div>)
 };
 
 

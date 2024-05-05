@@ -17,7 +17,9 @@ app.use((req, res, next) => {
   next();
 });
 
-app.use("/", expensesRoutes)
+
+app.use("/api/expenses/", expensesRoutes)
+
 
 
 
