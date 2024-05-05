@@ -3,7 +3,8 @@ Expense debt ratio tracker using MERN stack.
 
 
 ## Description
-A web application built with the MERN (MongoDB, Express.js, React, Node.js) stack for tracking debt and expenses across different categories.
+A simple web application built with the MERN (MongoDB, Express.js, React, Node.js) stack for tracking debt and expenses across different categories.
+This application will be used to display how the user can organize the expenses in categories while tracking the financial state and providing an understanding of which categories are the most common...
 
 ## Table of Contents
 - [Installation](#installation)
@@ -33,7 +34,11 @@ A web application built with the MERN (MongoDB, Express.js, React, Node.js) stac
 - [Provide usage instructions here]
 
 ## Features
-- [List of features]
+- User log-in
+- Adding Expenses by dates and calculating current month expenses
+- Dashboard with stats by month.
+- Year stats.
+- and more...
 
 ## Technologies Used
 - MongoDB
@@ -48,13 +53,13 @@ A web application built with the MERN (MongoDB, Express.js, React, Node.js) stac
 - `docs/`: Documentation files.
 
 ## Contributing
-- [Contribution guidelines]
+- Silvana Mendoza Olarte
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+N/A
 
 ## Contact
-For questions or feedback, please contact [Your Name](mailto:youremail@example.com).
+For questions or feedback, please contact [Your Name](mailto:sergio.terrero28@gmail.com).
 
 ## Acknowledgments
-- [List of acknowledgments]
+- N/A
