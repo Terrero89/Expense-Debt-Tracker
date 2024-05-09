@@ -117,8 +117,7 @@ sudo npm install dotenv
 - `docs/`: Documentation files.
 
 ## Contributing
-- Silvana Mendoza Olarte
-
+-TBD
 ## License
 N/A
 
